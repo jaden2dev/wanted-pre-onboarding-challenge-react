@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 10px;
+}
+
+input {
+  border:1px solid black;
+}
+
+li {
+  padding-bottom: 10px;
+}
