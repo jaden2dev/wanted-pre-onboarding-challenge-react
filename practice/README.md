@@ -19,6 +19,7 @@ npm install -g pnpm 로 설치하면 편해요
 
 # 실습
 ## chatpter 1
+https://github.com/jaden2dev/wanted-pre-onboarding-challenge-react/tree/feat/chapter1
 
 - 프로젝트 설치 
 
@@ -36,6 +37,13 @@ pnpm dev
 
 
 ## chapter 2
+https://github.com/jaden2dev/wanted-pre-onboarding-challenge-react/tree/feat/chapter2
+- CSS Styling
+
+tailwind : https://tailwindcss.com/docs/installation
+clsx : https://www.npmjs.com/package/clsx
+
+
 
 
 
